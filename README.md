@@ -3,4 +3,5 @@
 # no-forward 
 
 このリポジトリはGit動画講座用です．
-conflict branch
+
+github上で更新
